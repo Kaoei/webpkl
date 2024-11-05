@@ -1,5 +1,5 @@
 
-<div class="flex items-center justify-around mt-24 mb-32">
+<div class="flex items-center justify-around h-[100vh]">
 
     <div class="img">
         <img src="{{ asset('img/heroImg.png') }}" alt="hero" class="w-[25rem]">
